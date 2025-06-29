@@ -1,4 +1,4 @@
-# 💰 Spendle - Smart Expense Tracker
+# 💰 Spendle - Smart Expense Handler
 
 Spendle is a responsive, themeable Expense Tracker built using **React**, **React-Bootstrap**, and **Vite**. It allows users to manage and visualize their expenses and incomes efficiently, with support for tags, charts, and dark/light themes.
 
